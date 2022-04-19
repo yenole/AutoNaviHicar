@@ -1,6 +1,12 @@
 # AutoNaviHicai
 高德地图车机版 hicar
 
+`部分效果图`
+
+![1.jpg](images/1.jpg)
+![2.jpg](images/2.jpg)
+![3.jpg](images/3.jpg)
+
 支持hicar小窗
 
 `存在问题:`
