@@ -1,4 +1,4 @@
-# AutoNaviHicai
+# AutoNaviHicar
 高德地图车机版 hicar
 
 `部分效果图`
@@ -28,3 +28,9 @@ Tip：该软件为官方未经授权修改软件，仅个人试用体验，任�
 
 `介意勿下。。。`
 __纯属自娱自乐，使用中如遇任何问题或因此软件遭受任何损失与本人、高德及hicar无关，请按需下载使用__
+
+
+
+`技术讨论群`
+
+<img src="images/wx.jpg" alt="Cover" width="500"/>
