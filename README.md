@@ -23,7 +23,7 @@ __纯属自娱自乐，使用中如遇任何问题或因此软件遭受任何损
 
 
 
-`技术讨论群`
+`技术讨论群-备注(hicar)`
 
 <img src="images/wx.jpg" alt="Cover" width="500"/>
 
